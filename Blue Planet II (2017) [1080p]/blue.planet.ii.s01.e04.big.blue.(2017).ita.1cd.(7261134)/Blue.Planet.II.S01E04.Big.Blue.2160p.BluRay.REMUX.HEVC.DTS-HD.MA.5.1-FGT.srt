@@ -1,0 +1,2326 @@
+1
+00:00:04,618 --> 00:00:08,789
+<i>:=:== Sottotitoli di SRT project ==:=:</i>
+
+2
+00:00:09,831 --> 00:00:15,212
+<i>Venite a tradurre con SRT project
+www.phoenix.forumgalaxy.com</i>
+
+3
+00:00:16,338 --> 00:00:21,051
+<i>Cercateci anche su Facebook:
+www.facebook.com/SRTproject</i>
+
+4
+00:00:21,760 --> 00:00:24,888
+{\an8}<i>SRT project
+ha tradotto per voi:</i>
+
+5
+00:00:21,760 --> 00:00:26,765
+<i>"Blue Planet 2 "</i>
+
+6
+00:00:27,432 --> 00:00:31,603
+<i>SRT project e' un gruppo amatoriale
+indipendente dai siti di video streaming.</i>
+
+7
+00:00:32,562 --> 00:00:35,315
+<i>La piu' vasta
+distesa selvaggia del mondo:</i>
+
+8
+00:00:35,649 --> 00:00:36,984
+<i>l'oceano aperto.</i>
+
+9
+00:00:38,986 --> 00:00:42,489
+<i>Copre piu' di meta' della
+superficie del nostro pianeta.</i>
+
+10
+00:00:48,453 --> 00:00:51,039
+<i>Qui non ci sono posti
+per nascondersi,</i>
+
+11
+00:00:51,582 --> 00:00:53,166
+<i>e il cibo scarseggia.</i>
+
+12
+00:00:57,588 --> 00:00:59,631
+<i>E' l'equivalente marino,</i>
+
+13
+00:01:00,048 --> 00:01:01,300
+<i>di un deserto.</i>
+
+14
+00:01:03,260 --> 00:01:08,390
+<i>Traduzione: Krypton,
+Evgenij [SRT project]</i>
+
+15
+00:01:09,266 --> 00:01:12,060
+<i>Revisione: Atirmil [SRT project]</i>
+
+16
+00:01:13,395 --> 00:01:15,272
+<i>E a pattugliare questo deserto:</i>
+
+17
+00:01:15,397 --> 00:01:17,399
+<i>le stenelle dal lungo rostro.</i>
+
+18
+00:01:29,912 --> 00:01:31,288
+<i>Restano uniti...</i>
+
+19
+00:01:39,880 --> 00:01:43,634
+<i>formando un super-branco
+di piu' di 5.000 esemplari.</i>
+
+20
+00:01:48,889 --> 00:01:52,768
+<i>Questo aumenta le possibilita'
+di trovare qualcosa da mangiare.</i>
+
+21
+00:02:01,068 --> 00:02:05,405
+<i>Come tutti coloro che vivono qui,
+devono faticare molto</i>
+
+22
+00:02:05,530 --> 00:02:08,784
+<i>per crearsi
+una casa nel grande blu.</i>
+
+23
+00:02:14,081 --> 00:02:21,171
+<i>"Il Grande Blu"</i>
+
+24
+00:02:32,557 --> 00:02:36,895
+<i>In rari momenti queste
+acque deserte esplodono di vita.</i>
+
+25
+00:02:45,320 --> 00:02:49,199
+<i>I pesci lanterna, nelle acque
+dell'oceano pacifico, in Costa Rica.</i>
+
+26
+00:02:50,075 --> 00:02:52,661
+<i>Sono poco piu' grandi dei pimephales
+promelas [famiglia dei ciprinidi],</i>
+
+27
+00:02:52,786 --> 00:02:57,165
+<i>ma cio' che perdono in grandezza,
+lo compensano in numero.</i>
+
+28
+00:03:00,544 --> 00:03:03,672
+<i>Sono tra i pesci
+piu' numerosi che ci siano.</i>
+
+29
+00:03:10,887 --> 00:03:13,473
+<i>Normalmente vengono
+in superficie solo di notte,</i>
+
+30
+00:03:13,557 --> 00:03:15,392
+<i>per nutrirsi di plancton,</i>
+
+31
+00:03:15,767 --> 00:03:19,187
+<i>ma questo immenso banco
+e' risorto durante il giorno,</i>
+
+32
+00:03:19,271 --> 00:03:22,190
+<i>quasi sicuramente
+con lo scopo di riprodursi.</i>
+
+33
+00:03:30,490 --> 00:03:33,827
+<i>Per i delfini,
+e' un colpo di fortuna.</i>
+
+34
+00:03:45,797 --> 00:03:49,760
+<i>Hanno localizzato il banco
+usando l'ecolocalizzazione.</i>
+
+35
+00:04:01,688 --> 00:04:03,815
+<i>Ma devono arrivarci in fretta.</i>
+
+36
+00:04:09,279 --> 00:04:11,615
+<i>Non sono
+gli unici cacciatori qui.</i>
+
+37
+00:04:11,990 --> 00:04:15,285
+<i>Anche il tonno pinna gialla
+ha localizzato il banco.</i>
+
+38
+00:04:25,003 --> 00:04:29,841
+<i>A seguirli, con un'apertura
+alare di 2 metri, i diavoli di mare.</i>
+
+39
+00:04:39,643 --> 00:04:43,605
+<i>E ora l'istiophorus,
+uno dei pesci piu' veloci nel mare,</i>
+
+40
+00:04:43,730 --> 00:04:45,899
+<i>si e' aggiunto all'inseguimento.</i>
+
+41
+00:04:52,739 --> 00:04:57,077
+<i>I pesci lanterna potrebbero tornare
+in profondita' in qualsiasi momento.</i>
+
+42
+00:05:03,292 --> 00:05:06,003
+<i>Ma ora sono arrivati i delfini.</i>
+
+43
+00:05:35,198 --> 00:05:39,036
+<i>Nuotano sotto il banco,
+indirizzandolo verso la superficie</i>
+
+44
+00:05:39,119 --> 00:05:43,081
+<i>e forzando i pesci lanterna
+a stringersi tra loro.</i>
+
+45
+00:05:49,963 --> 00:05:53,300
+<i>E ora il mare
+va in ebollizione.</i>
+
+46
+00:06:02,726 --> 00:06:06,897
+<i>Il tonno si precipita nel banco
+a oltre 60 chilometri orari.</i>
+
+47
+00:06:38,303 --> 00:06:41,848
+<i>I piu' lenti diavoli
+del mare infine arrivano.</i>
+
+48
+00:06:48,563 --> 00:06:50,816
+<i>Con le loro giganti
+bocche spalancate,</i>
+
+49
+00:06:50,941 --> 00:06:53,652
+<i>raccolgono centinaia
+di pesci lanterna.</i>
+
+50
+00:06:57,906 --> 00:07:00,993
+<i>Il banco si e' ora
+ampiamente disperso,</i>
+
+51
+00:07:01,618 --> 00:07:04,538
+<i>e gli istiophorus
+raccolgono i sopravvissuti.</i>
+
+52
+00:07:07,249 --> 00:07:09,251
+<i>In solo 15 minuti,</i>
+
+53
+00:07:10,836 --> 00:07:14,756
+<i>tutto cio' che resta
+sono coriandoli argentati di scaglie.</i>
+
+54
+00:07:26,268 --> 00:07:31,106
+<i>Ma qui, banchetti cosi'
+non sono molti frequenti.</i>
+
+55
+00:07:40,198 --> 00:07:43,619
+<i>Mentre i delfini
+mostrano grande resistenza,</i>
+
+56
+00:07:43,994 --> 00:07:47,289
+<i>altri vengono portati
+ad estremi ancora maggiori</i>
+
+57
+00:07:47,497 --> 00:07:50,834
+<i>per trovare cibo
+in questo oceano deserto.</i>
+
+58
+00:08:09,311 --> 00:08:11,438
+<i>Un gigante addormentato.</i>
+
+59
+00:08:16,234 --> 00:08:17,486
+<i>Un capodoglio.</i>
+
+60
+00:08:25,619 --> 00:08:29,623
+<i>Questa famiglia sta riposando
+tra una partita di caccia e l'altra.</i>
+
+61
+00:08:36,797 --> 00:08:42,010
+Chissa' cosa sognano i proprietari
+del cervello piu' grande del mondo.
+
+62
+00:08:50,018 --> 00:08:51,937
+<i>Una di loro ha un cucciolo.</i>
+
+63
+00:08:53,355 --> 00:08:57,442
+<i>Ha circa 2 settimane,
+ma dipende ancora dal latte materno.</i>
+
+64
+00:08:58,819 --> 00:08:59,736
+<i>Ha fame.</i>
+
+65
+00:09:03,699 --> 00:09:07,661
+<i>Comunica con sua madre
+usando una sequenza di click.</i>
+
+66
+00:09:14,459 --> 00:09:16,878
+<i>Ma sua madre sta sonnecchiando.</i>
+
+67
+00:09:23,343 --> 00:09:28,056
+<i>Il figlio, coperto di remore,
+da cui ancora non riesce a liberarsi,</i>
+
+68
+00:09:28,473 --> 00:09:29,891
+<i>deve avere pazienza.</i>
+
+69
+00:09:57,502 --> 00:10:00,130
+<i>Riposate e rigenerate,</i>
+
+70
+00:10:01,006 --> 00:10:02,799
+<i>i capodogli procedono.</i>
+
+71
+00:10:05,344 --> 00:10:09,222
+<i>I capodogli non aspettano
+che la loro preda vada in superficie.</i>
+
+72
+00:10:09,973 --> 00:10:13,435
+<i>Nuotano in profondita'
+per trovarla.</i>
+
+73
+00:10:19,024 --> 00:10:21,610
+<i>Fanno una serie
+di respiri profondi...</i>
+
+74
+00:10:25,280 --> 00:10:27,991
+<i>per saturare il loro
+sangue con ossigeno.</i>
+
+75
+00:10:29,868 --> 00:10:30,827
+<i>Dopodiche'</i>
+
+76
+00:10:31,578 --> 00:10:33,247
+<i>ecco che si immergono.</i>
+
+77
+00:10:41,129 --> 00:10:45,342
+<i>Quest'intera famiglia si immerge
+insieme in cerca di calamari.</i>
+
+78
+00:10:53,809 --> 00:10:57,604
+<i>Una madre spingera' il suo corpo
+ai limiti della sua resistenza,</i>
+
+79
+00:10:58,480 --> 00:11:01,566
+<i>ed e' difficile per il
+cucciolo tenere il passo.</i>
+
+80
+00:11:12,578 --> 00:11:16,039
+<i>Il cucciolo resta il piu' vicino
+possibile alla madre</i>
+
+81
+00:11:18,000 --> 00:11:19,918
+<i>toccandola frequentemente...</i>
+
+82
+00:11:22,629 --> 00:11:24,423
+<i>per rassicurarsi.</i>
+
+83
+00:11:38,312 --> 00:11:40,397
+<i>Ma a 300 metri di profondita',</i>
+
+84
+00:11:41,356 --> 00:11:45,193
+<i>sembra che il cucciolo non riesca
+piu' a trattenere il respiro.</i>
+
+85
+00:12:10,135 --> 00:12:13,138
+<i>Nei primi anni di vita,
+i cuccioli sono costretti</i>
+
+86
+00:12:13,221 --> 00:12:15,891
+<i>a restare fuori
+dalle partite di caccia.</i>
+
+87
+00:12:20,145 --> 00:12:22,898
+<i>Gli adulti continuano
+la loro immersione.</i>
+
+88
+00:12:36,286 --> 00:12:42,334
+<i>La madre inizia ad emettere
+una serie di click piu' rapidi e acuti.</i>
+
+89
+00:12:48,799 --> 00:12:52,928
+<i>Sta ora usando l'ecolocalizzazione
+per trovare i banchi di calamari.</i>
+
+90
+00:13:02,062 --> 00:13:05,482
+<i>A 800 metri di profondita',
+un'esplosione di click.</i>
+
+91
+00:13:14,449 --> 00:13:15,409
+<i>E poi...</i>
+
+92
+00:13:15,534 --> 00:13:16,535
+<i>silenzio.</i>
+
+93
+00:13:19,246 --> 00:13:20,706
+<i>Ha preso qualcosa.</i>
+
+94
+00:13:33,635 --> 00:13:36,888
+<i>Il cucciolo potrebbe
+aspettare molto in superficie.</i>
+
+95
+00:13:43,812 --> 00:13:47,733
+<i>Finalmente la madre ritorna
+dopo ben un'ora.</i>
+
+96
+00:13:50,611 --> 00:13:52,779
+<i>Ha lo stomaco pieno di calamari.</i>
+
+97
+00:14:13,508 --> 00:14:17,262
+<i>Finalmente il cucciolo affamato
+potra' avere un po' di latte.</i>
+
+98
+00:14:22,851 --> 00:14:26,480
+<i>E' tra i latti piu' ricchi
+prodotti tra i mammiferi,</i>
+
+99
+00:14:27,522 --> 00:14:31,151
+<i>e il figlio ne ingurgita
+una vasca piena al giorno.</i>
+
+100
+00:14:48,043 --> 00:14:50,629
+<i>Possono passare
+6 anni prima che un cucciolo</i>
+
+101
+00:14:50,712 --> 00:14:53,674
+<i>riesca a fare lunghe
+immersioni in profondita'</i>
+
+102
+00:14:54,424 --> 00:14:57,803
+<i>e a trovare del cibo da se'.</i>
+
+103
+00:15:14,778 --> 00:15:16,947
+<i>E' la vacuita' del grande blu</i>
+
+104
+00:15:17,030 --> 00:15:20,117
+<i>a rendere la vita
+del cacciatore cosi' difficile.</i>
+
+105
+00:15:26,540 --> 00:15:28,458
+<i>Ma e' questa vacuita'</i>
+
+106
+00:15:28,542 --> 00:15:31,837
+<i>che lo rende cosi'
+relativamente sicuro per le prede.</i>
+
+107
+00:15:41,346 --> 00:15:44,808
+<i>Un cucciolo di tartaruga,
+nato appena qualche giorno fa,</i>
+
+108
+00:15:45,142 --> 00:15:48,687
+<i>sta lasciando le affollate
+e pericolose acque costiere,</i>
+
+109
+00:15:48,937 --> 00:15:51,148
+<i>per andare nell'oceano aperto.</i>
+
+110
+00:15:59,114 --> 00:16:02,367
+<i>Per iniziare, si riempiono
+il piccolo stomaco di plancton,</i>
+
+111
+00:16:05,037 --> 00:16:08,624
+<i>ma presto avranno bisogno
+di qualcosa di piu' sostanzioso.</i>
+
+112
+00:16:19,760 --> 00:16:22,888
+<i>Solo recentemente e'
+stavo svelato il mistero,</i>
+
+113
+00:16:22,971 --> 00:16:27,100
+<i>di dove spariscano i cuccioli
+di tartaruga nei primi anni di vita.</i>
+
+114
+00:16:43,867 --> 00:16:46,995
+<i>Centinaia di chilometri al largo,
+in ogni oceano,</i>
+
+115
+00:16:47,162 --> 00:16:49,915
+<i>ci sono comunita'
+di giovani "naufraghi".</i>
+
+116
+00:17:00,133 --> 00:17:02,970
+<i>Tutto cio'
+che galleggia, li attrae.</i>
+
+117
+00:17:10,811 --> 00:17:11,812
+<i>Un ceppo.</i>
+
+118
+00:17:12,646 --> 00:17:15,357
+<i>Potrebbe star
+galleggiando da molti anni,</i>
+
+119
+00:17:15,565 --> 00:17:19,069
+<i>ed e' gia' diventato il centro
+di una piccola comunita'.</i>
+
+120
+00:17:21,196 --> 00:17:24,616
+<i>Dei giovani pesci palla
+sono qui per lo stesso motivo.</i>
+
+121
+00:17:29,788 --> 00:17:33,333
+<i>Un ceppo galleggiante
+e' proprio il rifugio perfetto</i>
+
+122
+00:17:33,417 --> 00:17:36,295
+<i>che questa piccola
+tartaruga stava cercando.</i>
+
+123
+00:17:37,087 --> 00:17:41,633
+<i>Qui, non solo ci sono alghe
+da mangiare, ma anche cirripedi.</i>
+
+124
+00:17:55,564 --> 00:17:58,400
+<i>Ma e' importante
+rimanere nascosti.</i>
+
+125
+00:18:04,907 --> 00:18:08,827
+<i>E' appena arrivato
+anche un giovane squalo seta.</i>
+
+126
+00:18:28,305 --> 00:18:30,766
+<i>Sta imparando
+cosa ha un buon sapore,</i>
+
+127
+00:18:34,645 --> 00:18:35,687
+<i>e cosa no.</i>
+
+128
+00:18:56,667 --> 00:19:00,462
+<i>Sappiamo ora che molte giovani
+tartarughe restano in posti simili</i>
+
+129
+00:19:00,545 --> 00:19:01,964
+<i>per diversi anni.</i>
+
+130
+00:19:02,923 --> 00:19:04,716
+<i>Fino a diventare adulte.</i>
+
+131
+00:19:17,854 --> 00:19:22,359
+<i>Anche se significa sopportare
+tutta la forza delle onde d'alto mare.</i>
+
+132
+00:19:30,534 --> 00:19:33,829
+<i>Il sole che picchia
+sul profondo blu,</i>
+
+133
+00:19:34,121 --> 00:19:37,749
+<i>riscalda la superficie dell'acqua
+cosi' da farla evaporare.</i>
+
+134
+00:19:45,299 --> 00:19:48,885
+<i>Mentre il vapore sale,
+si condensa formando nuvole.</i>
+
+135
+00:19:51,346 --> 00:19:55,517
+<i>Queste crescono rapidamente
+formando torri sempre piu' grandi,</i>
+
+136
+00:19:56,143 --> 00:19:59,187
+<i>che finiranno
+per generare violente tempeste,</i>
+
+137
+00:19:59,271 --> 00:20:02,024
+<i>alcune grandi
+anche 1600 chilometri circa.</i>
+
+138
+00:20:18,373 --> 00:20:22,127
+<i>I venti prodotti dall'uragano
+attraversano l'oceano aperto,</i>
+
+139
+00:20:22,920 --> 00:20:26,840
+<i>formando onde che arrivano
+anche a 30 metri di altezza.</i>
+
+140
+00:20:41,146 --> 00:20:44,858
+<i>Qui, si sa di navi scomparse
+senza lasciare nessuna traccia.</i>
+
+141
+00:20:59,456 --> 00:21:02,334
+<i>130 milioni di container</i>
+
+142
+00:21:02,459 --> 00:21:05,712
+<i>vengono trasportati
+ogni anno attraverso gli oceani.</i>
+
+143
+00:21:07,547 --> 00:21:12,135
+<i>E in media, 4 di loro
+cadono nel mare ogni giorno.</i>
+
+144
+00:21:27,442 --> 00:21:30,904
+<i>Nel 1922,
+ne vennero persi alcuni</i>
+
+145
+00:21:30,988 --> 00:21:33,865
+<i>che contenevano
+giocattoli da bagno.</i>
+
+146
+00:21:39,705 --> 00:21:44,209
+<i>Incluse 7mila papere di
+plastica come queste.</i>
+
+147
+00:21:56,555 --> 00:22:00,559
+<i>Iniziarono il loro viaggio
+a circa 1600 chilometri dall'Alaska.</i>
+
+148
+00:22:04,438 --> 00:22:09,192
+<i>Alcune vagarono lungo l'Oceano
+Pacifico arrivando in Australia.</i>
+
+149
+00:22:16,241 --> 00:22:18,243
+<i>Altre vennero
+trasportate verso nord,</i>
+
+150
+00:22:18,368 --> 00:22:21,580
+<i>sbarcando sulle coste
+tra la Russia e l'Alaska.</i>
+
+151
+00:22:24,207 --> 00:22:27,836
+<i>Trovarono persino il modo
+di arrivare nell'Alto Artico.</i>
+
+152
+00:22:42,059 --> 00:22:46,146
+<i>Una papera,
+rimasta in mare per 15 anni,</i>
+
+153
+00:22:46,271 --> 00:22:48,148
+<i>e attraversato 3 oceani,</i>
+
+154
+00:22:48,440 --> 00:22:52,110
+<i>eventualmente finii
+nella costa ovest della Scozia.</i>
+
+155
+00:22:59,993 --> 00:23:04,164
+<i>I loro viaggi illustrano
+come una rete di correnti,</i>
+
+156
+00:23:04,248 --> 00:23:09,795
+<i>connettano tutti i nostri oceani
+in un immenso sistema circolatorio.</i>
+
+157
+00:23:25,394 --> 00:23:29,481
+<i>Molti degli abitanti del grande
+blu si affidano a queste correnti</i>
+
+158
+00:23:29,856 --> 00:23:32,985
+<i>per essere trasportati
+in zone dove trovare cibo.</i>
+
+159
+00:23:47,916 --> 00:23:49,501
+<i>Lo squalo azzurro.</i>
+
+160
+00:23:54,965 --> 00:23:58,468
+<i>Percorre piu'
+di 8000 chilometri all'anno,</i>
+
+161
+00:23:58,594 --> 00:24:03,557
+<i>sfruttando le correnti, aiutato
+dalle sue ampie pinne a forma d'ali.</i>
+
+162
+00:24:09,229 --> 00:24:12,316
+<i>Questo potrebbe
+non aver mangiato da due mesi.</i>
+
+163
+00:24:19,740 --> 00:24:23,201
+<i>Ma le correnti possono trasportare
+promettenti tracce di oli grassi</i>
+
+164
+00:24:23,327 --> 00:24:27,497
+<i>da chilometri di distanza,
+e lo guideranno al suo prossimo pasto.</i>
+
+165
+00:24:35,714 --> 00:24:39,676
+<i>Dopo giorni di viaggio,
+l'odore di cibo diventa piu' forte.</i>
+
+166
+00:25:02,741 --> 00:25:06,078
+<i>Una balena morta,
+recentemente colpita da una nave.</i>
+
+167
+00:25:10,249 --> 00:25:12,709
+<i>Potrebbe essere
+un bel banchetto,</i>
+
+168
+00:25:13,293 --> 00:25:15,963
+<i>ma lo squalo azzurro
+deve stare attento.</i>
+
+169
+00:25:26,056 --> 00:25:27,641
+<i>Squali bianchi...</i>
+
+170
+00:25:31,019 --> 00:25:33,981
+<i>10 volte piu' pesanti
+di uno squalo azzurro...</i>
+
+171
+00:25:35,983 --> 00:25:39,528
+<i>sono molto possessivi
+attorno a una carcassa di balena.</i>
+
+172
+00:26:07,431 --> 00:26:11,768
+<i>Gli squali bianchi sono impazienti
+di cibarsi del ricco grasso di balena,</i>
+
+173
+00:26:11,893 --> 00:26:15,522
+<i>che come ora sappiamo,
+e' fondamentale nella loro dieta.</i>
+
+174
+00:26:27,993 --> 00:26:30,370
+<i>Dopo che lo squalo
+bianco si e' saziato,</i>
+
+175
+00:26:30,454 --> 00:26:35,584
+<i>squali piccoli, come lo squalo
+azzurro, mangiano cio' che rimane.</i>
+
+176
+00:26:45,886 --> 00:26:49,056
+<i>Piu' gli oli grassi
+della balena si spargono,</i>
+
+177
+00:26:49,264 --> 00:26:52,100
+<i>piu' e piu' squali
+azzurri compaiono.</i>
+
+178
+00:27:14,414 --> 00:27:18,293
+<i>In pochi giorni, il grasso
+della carcassa sara' stato consumato.</i>
+
+179
+00:27:27,636 --> 00:27:30,889
+<i>A quel punto,
+non piu' tenuta a galla dai suoi oli,</i>
+
+180
+00:27:31,265 --> 00:27:34,476
+<i>affondera'
+nelle profondita' sottostanti.</i>
+
+181
+00:27:38,272 --> 00:27:41,733
+<i>Lo squalo azzurro,
+con le riserve di grasso reintegrate,</i>
+
+182
+00:27:41,900 --> 00:27:45,654
+<i>puo' ora sopravvivere
+per altri 2 mesi senza mangiare.</i>
+
+183
+00:28:10,012 --> 00:28:14,016
+<i>Piu' della meta'
+degli animali in oceano aperto,</i>
+
+184
+00:28:14,141 --> 00:28:16,602
+<i>si fanno trasportare
+dalle correnti.</i>
+
+185
+00:28:25,319 --> 00:28:28,155
+<i>Le meduse
+attraversano interi oceani</i>
+
+186
+00:28:28,363 --> 00:28:32,492
+<i>nutrendosi di tutto cio' che resta
+impigliato nei loro tentacoli.</i>
+
+187
+00:28:37,164 --> 00:28:40,959
+<i>Alcune arrivano a un metro,
+o persino a due metri di diametro.</i>
+
+188
+00:28:43,003 --> 00:28:45,088
+<i>E quando,
+se sono fortunate,</i>
+
+189
+00:28:45,297 --> 00:28:48,634
+<i>trovano una macchia
+piena di plancton,</i>
+
+190
+00:28:49,301 --> 00:28:51,595
+<i>si moltiplicano
+esponenzialmente.</i>
+
+191
+00:29:05,525 --> 00:29:11,782
+<i>Venite a tradurre con SRT project
+www.phoenix.forumgalaxy.com</i>
+
+192
+00:29:12,824 --> 00:29:18,038
+<i>Cercateci anche su Facebook:
+www.facebook.com/SRTproject</i>
+
+193
+00:29:36,265 --> 00:29:38,850
+<i>E' una strategia cosi' vincente,</i>
+
+194
+00:29:39,184 --> 00:29:43,647
+<i>che le meduse sono tra
+le specie piu' comuni sul pianeta.</i>
+
+195
+00:29:53,824 --> 00:29:57,202
+<i>Ma tra le meduse,
+e di aspetto molto simile,</i>
+
+196
+00:29:58,120 --> 00:30:01,456
+<i>c'e' una creatura
+molto piu' complessa e sinistra.</i>
+
+197
+00:30:06,837 --> 00:30:09,006
+<i>La caravella portoghese.</i>
+
+198
+00:30:15,012 --> 00:30:18,515
+<i>Galleggia con l'aiuto
+di una camera d'aria piena di gas,</i>
+
+199
+00:30:18,974 --> 00:30:21,476
+<i>sormontata da
+una membrana verticale.</i>
+
+200
+00:30:23,186 --> 00:30:25,272
+<i>Usandola come vela,</i>
+
+201
+00:30:25,647 --> 00:30:28,734
+<i>mantiene una rotta
+stabile tra le onde.</i>
+
+202
+00:30:53,759 --> 00:30:58,972
+<i>Si strascina dietro lunghi tentacoli,
+che possono arrivare anche a 30 metri.</i>
+
+203
+00:31:03,894 --> 00:31:07,731
+<i>Ognuno e' armato con
+molte migliaia di cellule pungenti.</i>
+
+204
+00:31:09,691 --> 00:31:14,446
+<i>Un solo tentacolo puo' uccidere
+un pesce o, in casi rari, una persona.</i>
+
+205
+00:31:20,160 --> 00:31:25,082
+<i>Ma tra i suoi letali tentacoli,
+si nasconde un pesce pastore,</i>
+
+206
+00:31:25,832 --> 00:31:28,252
+<i>che si nutre rosicchiandoli.</i>
+
+207
+00:31:34,341 --> 00:31:38,220
+<i>Nonostante questo pesce abbia
+una certa resistenza alle sue punture,</i>
+
+208
+00:31:38,303 --> 00:31:40,764
+<i>deve comunque
+essere molto prudente.</i>
+
+209
+00:31:44,309 --> 00:31:47,437
+<i>Molti degli altri pesci
+non sono cosi' fortunati.</i>
+
+210
+00:32:09,251 --> 00:32:12,921
+<i>Questo viene catturato
+da un tentacolo e lo tira verso se'.</i>
+
+211
+00:32:24,558 --> 00:32:26,727
+<i>E' gia' paralizzato.</i>
+
+212
+00:32:32,024 --> 00:32:34,359
+<i>Dei tentacoli
+muscolari specializzati</i>
+
+213
+00:32:34,443 --> 00:32:38,488
+<i>trasferiscono la vittima agli altri,
+i quali digeriscono la preda,</i>
+
+214
+00:32:38,780 --> 00:32:41,658
+<i>sciogliendola
+con potenti sostanze chimiche.</i>
+
+215
+00:32:48,540 --> 00:32:51,209
+<i>Eventualmente,
+cio' che ne rimane...</i>
+
+216
+00:32:53,962 --> 00:32:55,881
+<i>e' un guscio squamoso.</i>
+
+217
+00:33:04,473 --> 00:33:06,350
+<i>Questa vorace
+caravella portoghese,</i>
+
+218
+00:33:06,433 --> 00:33:10,270
+<i>puo' catturare
+piu' di 100 pesci al giorno.</i>
+
+219
+00:33:34,586 --> 00:33:38,548
+<i>Per la maggior parte,
+il grande blu sembra monotono...</i>
+
+220
+00:33:41,593 --> 00:33:45,639
+<i>un posto dove il vento soffia
+ininterrotto dalla terra.</i>
+
+221
+00:33:50,644 --> 00:33:54,731
+<i>Ma sott'acqua
+ci sono lunghe catene montuose,</i>
+
+222
+00:33:55,023 --> 00:33:59,027
+<i>profondi fossi,
+e isolate cime vulcaniche</i>
+
+223
+00:33:59,278 --> 00:34:03,574
+<i>che lo rendono molto piu' variegato
+di quanto l'occhio umano percepisca.</i>
+
+224
+00:34:09,955 --> 00:34:12,874
+<i>Stiamo solo adesso
+scoprendo in dettaglio,</i>
+
+225
+00:34:13,250 --> 00:34:16,545
+<i>come venga utilizzato
+dagli abitanti del grande blu.</i>
+
+226
+00:34:26,805 --> 00:34:31,310
+<i>Un solitario squalo balena
+in un viaggio speciale.</i>
+
+227
+00:34:37,524 --> 00:34:40,819
+<i>E' una femmina,
+lunga quanto un piccolo aereo,</i>
+
+228
+00:34:41,111 --> 00:34:44,031
+<i>e pesa piu' di 20 tonnellate.</i>
+
+229
+00:34:47,951 --> 00:34:53,373
+<i>Come molti squali, non depone
+uova ma da' vita a cuccioli vivi.</i>
+
+230
+00:35:09,973 --> 00:35:13,936
+<i>Ne trasporta piu' di 300
+nel suo pancione gonfio.</i>
+
+231
+00:35:21,276 --> 00:35:23,987
+<i>Potrebbe anche essere
+il pesce piu' grande nel mare,</i>
+
+232
+00:35:24,071 --> 00:35:26,698
+<i>ma il posto dove
+gli squali balena partoriscono</i>
+
+233
+00:35:26,782 --> 00:35:28,742
+<i>non e' ancora stato trovato.</i>
+
+234
+00:35:35,374 --> 00:35:40,045
+<i>Oggi potremmo pero' essere
+vicini a risolvere questo mistero.</i>
+
+235
+00:35:42,381 --> 00:35:44,883
+<i>Sappiamo che
+un gran numero di squali balena,</i>
+
+236
+00:35:45,008 --> 00:35:46,927
+<i>in certi momenti dell'anno,</i>
+
+237
+00:35:47,135 --> 00:35:50,472
+<i>appaiono intorno
+alle isole Galapagos.</i>
+
+238
+00:35:51,974 --> 00:35:54,893
+<i>Si riuniscono qui
+attorno ad un piccolo isolotto</i>
+
+239
+00:35:54,977 --> 00:35:58,689
+<i>che sporge bruscamente
+da acque particolarmente profonde.</i>
+
+240
+00:36:02,818 --> 00:36:05,612
+<i>E' conosciuta
+come l'isola di Darwin.</i>
+
+241
+00:36:14,746 --> 00:36:18,542
+<i>Qui, vorticose correnti
+portano nutrienti dalle profondita',</i>
+
+242
+00:36:18,834 --> 00:36:25,465
+<i>arricchendo cosi' tanto le acque
+da attrarre molti pesci da ogni dove.</i>
+
+243
+00:36:34,474 --> 00:36:38,562
+<i>Anche migliaia
+di squali martello si radunano qui.</i>
+
+244
+00:36:41,857 --> 00:36:43,984
+<i>Sono quasi tutte femmine.</i>
+
+245
+00:36:51,950 --> 00:36:55,162
+<i>Anche loro, sembra,
+sono venute qui per riprodursi.</i>
+
+246
+00:37:03,337 --> 00:37:07,257
+<i>Lo squalo balena riceve
+uno straordinario benvenuto.</i>
+
+247
+00:37:28,237 --> 00:37:29,696
+<i>Degli squali seta,</i>
+
+248
+00:37:29,863 --> 00:37:31,823
+<i>lunghi tre metri,</i>
+
+249
+00:37:32,366 --> 00:37:34,910
+<i>rimbalzano contro
+la sua pelle ruvida,</i>
+
+250
+00:37:37,412 --> 00:37:41,291
+<i>forse per raschiare via parassiti
+che potrebbero avere addosso.</i>
+
+251
+00:37:46,296 --> 00:37:50,509
+<i>Questi squali potrebbero essere
+pericolosi per un piccolo appena nato.</i>
+
+252
+00:37:54,054 --> 00:37:56,306
+<i>Quindi, forse per evitarli,</i>
+
+253
+00:37:57,474 --> 00:37:59,601
+<i>lo squalo balena si immerge...</i>
+
+254
+00:38:02,813 --> 00:38:06,316
+<i>a circa 600 metri di profondita'.</i>
+
+255
+00:38:33,135 --> 00:38:36,638
+<i>E' li' che da' alla luce
+il suo piccolo.</i>
+
+256
+00:38:39,141 --> 00:38:40,601
+<i>A queste grandi profondita',</i>
+
+257
+00:38:40,726 --> 00:38:44,271
+<i>lontano dai predatori che
+cacciano nelle acque soprastanti</i>
+
+258
+00:38:44,396 --> 00:38:46,064
+<i>e con cibo abbondante,</i>
+
+259
+00:38:46,648 --> 00:38:50,569
+<i>i suoi piccoli possono crescere
+per poi disperdersi.</i>
+
+260
+00:39:01,288 --> 00:39:02,664
+<i>Nessuno, e' vero,</i>
+
+261
+00:39:03,040 --> 00:39:06,919
+<i>ha mai visto dei piccoli
+in questi abissi poco frequentati.</i>
+
+262
+00:39:12,883 --> 00:39:16,303
+<i>Ma il fatto che centinaia
+di squali balena incinta</i>
+
+263
+00:39:16,428 --> 00:39:17,930
+<i>vengano qui ogni anno</i>
+
+264
+00:39:19,264 --> 00:39:22,392
+<i>mostra chiaramente
+che qui, da qualche parte,</i>
+
+265
+00:39:22,476 --> 00:39:25,896
+<i>si trovi l'asilo nido
+del piu' grande pesce che ci sia</i>
+
+266
+00:39:26,063 --> 00:39:27,064
+<i>nel mare.</i>
+
+267
+00:39:54,633 --> 00:39:58,387
+<i>Ci sono circa 30mila
+isole di notevoli dimensioni</i>
+
+268
+00:39:58,595 --> 00:40:00,806
+<i>sparse negli oceani della Terra.</i>
+
+269
+00:40:04,560 --> 00:40:07,479
+<i>Una di queste
+e' la Georgia del sud,</i>
+
+270
+00:40:11,650 --> 00:40:14,570
+<i>un luogo ideale
+per quegli abitanti dell'oceano</i>
+
+271
+00:40:14,653 --> 00:40:18,156
+<i>che sono costretti
+ad atterrare per riprodursi.</i>
+
+272
+00:40:22,077 --> 00:40:23,954
+<i>L'albatros urlatore.</i>
+
+273
+00:40:34,381 --> 00:40:38,218
+<i>Puo' passare anche
+un anno di fila in mare,</i>
+
+274
+00:40:42,055 --> 00:40:43,473
+<i>in cerca di cibo,</i>
+
+275
+00:40:44,141 --> 00:40:48,020
+<i>planando su ali
+larghe oltre 3,5 metri,</i>
+
+276
+00:40:48,770 --> 00:40:51,648
+<i>le piu' grandi di qualsiasi
+uccello vivente.</i>
+
+277
+00:41:04,953 --> 00:41:09,917
+<i>L'intera popolazione mondiale
+di 16.000 uccelli migratori</i>
+
+278
+00:41:10,125 --> 00:41:12,210
+<i>nidifica nella Georgia del sud</i>
+
+279
+00:41:12,377 --> 00:41:15,631
+<i>e mezza dozzina circa
+delle altre isole piu' piccole</i>
+
+280
+00:41:15,714 --> 00:41:17,799
+<i>situate nell'oceano antartico.</i>
+
+281
+00:41:23,180 --> 00:41:24,306
+<i>E' primavera</i>
+
+282
+00:41:24,431 --> 00:41:26,141
+<i>e quest'uccello sta tornando</i>
+
+283
+00:41:26,225 --> 00:41:28,518
+<i>al nido che
+ha sempre utilizzato.</i>
+
+284
+00:41:39,446 --> 00:41:42,366
+<i>Il partner di tutta
+la sua vita e' gia' qui.</i>
+
+285
+00:41:52,042 --> 00:41:53,377
+<i>Nella Georgia del sud,</i>
+
+286
+00:41:53,502 --> 00:41:57,339
+<i>sono stati studiati dei singoli
+uccelli per tutta la loro vita,</i>
+
+287
+00:41:58,257 --> 00:42:01,260
+<i>e si e' scoperto che le coppie
+piu' anziane, nei loro 30 anni di eta',</i>
+
+288
+00:42:01,343 --> 00:42:04,638
+<i>fanno cose incredibili
+per permettere ai loro piccoli</i>
+
+289
+00:42:04,763 --> 00:42:08,100
+<i>di iniziare la loro vita
+nel modo migliore possibile.</i>
+
+290
+00:42:27,995 --> 00:42:30,622
+<i>Questo pulcino ha ora
+qualche settimana,</i>
+
+291
+00:42:31,582 --> 00:42:34,585
+<i>ma porta ancora il suo
+caldo manto lanuginoso.</i>
+
+292
+00:42:48,724 --> 00:42:53,520
+<i>Il pulcino avra' regolarmente bisogno
+di pesce e calamari rigurgitati.</i>
+
+293
+00:43:16,668 --> 00:43:19,421
+<i>Con cosi' poco cibo
+nell'oceano aperto,</i>
+
+294
+00:43:19,796 --> 00:43:24,009
+<i>i genitori devono perlustrare
+migliaia di chilometri quadrati</i>
+
+295
+00:43:24,176 --> 00:43:27,179
+<i>solo per trovare
+abbastanza cibo per un pasto.</i>
+
+296
+00:43:51,286 --> 00:43:55,999
+<i>I genitori anziani lottano
+per tutto l'inverno antartico</i>
+
+297
+00:43:56,083 --> 00:43:59,544
+<i>per far diventare un piccolo
+grande, forte e in salute.</i>
+
+298
+00:44:19,940 --> 00:44:22,651
+<i>Dopo circa 130 giorni,</i>
+
+299
+00:44:22,901 --> 00:44:27,155
+<i>il piccolo inizia la muta del
+piumino con penne adatte al volo.</i>
+
+300
+00:44:45,549 --> 00:44:48,927
+<i>Alla fine, nove mesi
+dopo che l'uovo e' stato deposto,</i>
+
+301
+00:44:49,469 --> 00:44:52,014
+<i>questo pulcino
+e' pronto ad andarsene.</i>
+
+302
+00:45:15,787 --> 00:45:19,333
+<i>Di tutti i piccoli che
+hanno cresciuto negli ultimi anni,</i>
+
+303
+00:45:20,167 --> 00:45:21,835
+<i>questo piccolo privilegiato</i>
+
+304
+00:45:21,919 --> 00:45:24,796
+<i>avra' migliori possibilita'
+di sopravvivere.</i>
+
+305
+00:45:27,174 --> 00:45:29,760
+<i>Ma sara' anche il loro ultimo.</i>
+
+306
+00:45:33,180 --> 00:45:37,017
+<i>I genitori piu' anziani non
+si riprendono mai dai loro sforzi.</i>
+
+307
+00:45:38,644 --> 00:45:40,604
+<i>Presto lasceranno l'isola</i>
+
+308
+00:45:41,271 --> 00:45:43,148
+<i>per non tornarci mai piu'.</i>
+
+309
+00:46:01,750 --> 00:46:03,961
+<i>Sopravvivere in oceano aperto</i>
+
+310
+00:46:04,044 --> 00:46:06,797
+<i>ha sempre provato
+gli animali all'estremo,</i>
+
+311
+00:46:08,882 --> 00:46:12,261
+<i>ma oggi devono affrontare
+un nuovo ulteriore pericolo.</i>
+
+312
+00:46:18,892 --> 00:46:20,018
+<i>La plastica.</i>
+
+313
+00:46:23,605 --> 00:46:25,399
+<i>Poco piu' di 100 anni fa,</i>
+
+314
+00:46:25,649 --> 00:46:28,235
+<i>abbiamo inventato
+uno splendido materiale nuovo</i>
+
+315
+00:46:28,360 --> 00:46:31,655
+<i>che potesse venire plasmato
+in ogni forma</i>
+
+316
+00:46:31,905 --> 00:46:33,907
+<i>e abbiamo impiegato molto
+per essere sicuri</i>
+
+317
+00:46:34,032 --> 00:46:35,784
+<i>che fosse resistente,</i>
+
+318
+00:46:35,993 --> 00:46:38,870
+<i>non marcisse e
+virtualmente indistruttibile.</i>
+
+319
+00:46:41,373 --> 00:46:43,041
+<i>Ora, ogni anno,</i>
+
+320
+00:46:43,125 --> 00:46:47,588
+<i>ne scarichiamo circa 8 milioni
+di tonnellate in mare.</i>
+
+321
+00:46:50,716 --> 00:46:55,888
+<i>Qui, intrappola e fa affogare
+un gran numero di creature marine.</i>
+
+322
+00:47:02,102 --> 00:47:06,899
+<i>Ma ci possono essere conseguenze
+piu' diffuse e di ampia portata.</i>
+
+323
+00:47:15,741 --> 00:47:19,244
+<i>Un branco di globicefali
+dalle pinne corte.</i>
+
+324
+00:47:28,670 --> 00:47:29,755
+<i>Vivono insieme,</i>
+
+325
+00:47:29,880 --> 00:47:34,801
+<i>forse, nelle famiglie piu' unite
+di tutto l'oceano.</i>
+
+326
+00:47:42,893 --> 00:47:46,146
+<i>Al giorno d'oggi, nelle acque
+dell'Atlantico, al largo dell'Europa,</i>
+
+327
+00:47:46,271 --> 00:47:47,648
+<i>come dappertutto,</i>
+
+328
+00:47:48,065 --> 00:47:51,151
+<i>devono condividere l'oceano
+con la plastica.</i>
+
+329
+00:48:02,079 --> 00:48:05,749
+<i>Una madre sta portando
+il suo piccolo appena nato.</i>
+
+330
+00:48:09,670 --> 00:48:10,629
+<i>E' morto.</i>
+
+331
+00:48:22,516 --> 00:48:25,143
+<i>E' riluttante ad abbandonarlo</i>
+
+332
+00:48:25,644 --> 00:48:28,855
+<i>e se lo sta portando in giro
+da diversi giorni.</i>
+
+333
+00:48:38,448 --> 00:48:41,118
+<i>Per grandi predatori,
+come questi,</i>
+
+334
+00:48:41,201 --> 00:48:45,289
+<i>le sostanze chimiche industriali
+possono raggiungere livelli letali</i>
+
+335
+00:48:51,878 --> 00:48:54,881
+<i>e la plastica potrebbe
+far parte del problema.</i>
+
+336
+00:48:58,760 --> 00:49:00,470
+<i>Quando la plastica si scompone,</i>
+
+337
+00:49:00,554 --> 00:49:03,223
+<i>si combina
+con gli altri inquinanti</i>
+
+338
+00:49:03,473 --> 00:49:07,436
+<i>che vengono consumati
+da numerose creature marine.</i>
+
+339
+00:49:21,283 --> 00:49:24,453
+<i>E' possibile che il suo piccolo
+sia stato avvelenato</i>
+
+340
+00:49:24,578 --> 00:49:27,247
+<i>dal suo stesso
+latte contaminato.</i>
+
+341
+00:49:39,301 --> 00:49:42,221
+<i>I globicefali
+hanno dei cervelli grandi.</i>
+
+342
+00:49:42,596 --> 00:49:45,641
+<i>Possono certamente
+provare delle emozioni.</i>
+
+343
+00:49:48,727 --> 00:49:51,230
+<i>A giudicare
+dal comportamento degli adulti,</i>
+
+344
+00:49:51,355 --> 00:49:55,317
+<i>la perdita del piccolo
+tocca l'intera famiglia.</i>
+
+345
+00:50:03,242 --> 00:50:07,329
+<i>Se il flusso di plastica
+e inquinamento industriale</i>
+
+346
+00:50:07,454 --> 00:50:10,207
+<i>non verra' ridotto
+negli oceani terrestri,</i>
+
+347
+00:50:10,749 --> 00:50:13,585
+<i>la vita nel mare
+verra' avvelenata da questi</i>
+
+348
+00:50:13,669 --> 00:50:15,545
+<i>per molti secoli a venire.</i>
+
+349
+00:50:22,302 --> 00:50:24,638
+<i>Le creature che vivono
+nel grande blu</i>
+
+350
+00:50:24,763 --> 00:50:26,557
+<i>sono forse le piu' isolate</i>
+
+351
+00:50:26,640 --> 00:50:29,101
+<i>fra gli animali del pianeta.</i>
+
+352
+00:50:32,729 --> 00:50:35,148
+<i>Ma non isolate
+abbastanza, sembra,</i>
+
+353
+00:50:35,440 --> 00:50:37,150
+<i>da sfuggire agli effetti</i>
+
+354
+00:50:37,234 --> 00:50:40,571
+<i>di quello che stiamo facendo
+al loro mondo.</i>
+
+355
+00:50:54,793 --> 00:51:04,761
+<i>"Nel Blu"</i>
+
+356
+00:51:08,807 --> 00:51:12,686
+<i>La sfida piu' grande nel filmare
+nell'immensita' dell'oceano aperto</i>
+
+357
+00:51:12,811 --> 00:51:14,688
+<i>e' trovare il tuo soggetto.</i>
+
+358
+00:51:19,192 --> 00:51:21,820
+<i>E la squadra
+di Pianeta Blu voleva filmarne</i>
+
+359
+00:51:21,904 --> 00:51:24,531
+<i>uno dei piu' sfuggenti,</i>
+
+360
+00:51:24,823 --> 00:51:26,742
+<i>il poco testimoniato</i>
+
+361
+00:51:27,451 --> 00:51:29,077
+<i>"mare in ebollizione".</i>
+
+362
+00:51:34,166 --> 00:51:38,378
+<i>Finora, questa frenesia alimentare
+e' stata materia di leggende.</i>
+
+363
+00:51:40,589 --> 00:51:43,842
+<i>Townsville, ottobre 2014</i>
+
+364
+00:51:44,134 --> 00:51:45,761
+<i>Dopo alcuni
+promettenti avvistamenti</i>
+
+365
+00:51:45,886 --> 00:51:48,096
+<i>al largo della costa
+nord-est dell'Australia,</i>
+
+366
+00:51:48,180 --> 00:51:50,849
+<i>la squadra vi si dirige
+per investigare.</i>
+
+367
+00:51:54,519 --> 00:51:57,147
+Sappiamo che e' un fenomeno,
+sappiamo che e' la' fuori,
+
+368
+00:51:55,687 --> 00:51:59,274
+{\an8}<i>Orla Doherty, produttore</i>
+
+369
+00:51:57,231 --> 00:51:59,274
+gli scienziati
+lo hanno documentato,
+
+370
+00:51:59,399 --> 00:52:01,193
+ne hanno parlato i marinai,
+
+371
+00:52:01,276 --> 00:52:03,195
+quindi sappiamo che esiste,
+
+372
+00:52:03,445 --> 00:52:05,322
+ma nessuno
+e' mai stato cosi' folle
+
+373
+00:52:05,447 --> 00:52:07,741
+da cercare di andare
+a filmarlo,
+
+374
+00:52:07,991 --> 00:52:09,284
+tranne noi.
+
+375
+00:52:11,286 --> 00:52:16,208
+<i>La squadra inizia le sue ricerche
+a 160 chilometri nell'oceano Pacifico.</i>
+
+376
+00:52:19,253 --> 00:52:21,171
+Il motivo per cui si chiama
+"mare in ebollizione"
+
+377
+00:52:21,255 --> 00:52:23,006
+e' perche' i tonni
+
+378
+00:52:21,713 --> 00:52:24,841
+{\an8}<i>Adrian Flynn, biologo marino</i>
+
+379
+00:52:23,674 --> 00:52:26,802
+escono dall'acqua e
+attaccano i pesci lanterna e
+
+380
+00:52:27,427 --> 00:52:29,304
+questo crea molta schiuma.
+
+381
+00:52:32,683 --> 00:52:34,560
+<i>Per filmare il mare in ebollizione,</i>
+
+382
+00:52:34,643 --> 00:52:38,063
+<i>la squadra deve prima trovare
+un branco di pesci esca,</i>
+
+383
+00:52:38,438 --> 00:52:40,399
+<i>probabilmente pesci lanterna</i>
+
+384
+00:52:40,607 --> 00:52:43,777
+<i>che salgono in superficie
+di notte per riprodursi.</i>
+
+385
+00:52:45,070 --> 00:52:46,280
+<i>Alcuni giorni dopo,</i>
+
+386
+00:52:46,363 --> 00:52:49,992
+<i>Adrian pensa di aver individuato
+un branco gigantesco</i>
+
+387
+00:52:50,075 --> 00:52:51,660
+<i>con l'ecoscandaglio.</i>
+
+388
+00:52:52,327 --> 00:52:55,330
+Cio' che vediamo
+e' uno strato molto denso,
+
+389
+00:52:55,455 --> 00:52:57,499
+a circa 200 metri di profondita'.
+
+390
+00:52:57,624 --> 00:53:02,337
+Quindi questo suggerisce
+che ci sia uno strato denso
+
+391
+00:53:02,421 --> 00:53:05,340
+e vasto di pesci.
+
+392
+00:53:06,383 --> 00:53:10,012
+<i>Uno dei modi migliori per filmare
+a queste profondita' in oceano aperto</i>
+
+393
+00:53:10,095 --> 00:53:14,308
+<i>e' di usare un VCD,
+un veicolo controllato a distanza,</i>
+
+394
+00:53:14,433 --> 00:53:17,060
+<i>dotato di una videocamera
+fotosensibile.</i>
+
+395
+00:53:19,897 --> 00:53:22,941
+<i>Lavorare pero' in alto mare con
+un equipaggiamento cosi' pesante</i>
+
+396
+00:53:23,025 --> 00:53:24,985
+<i>e' un'operazione rischiosa.</i>
+
+397
+00:53:28,530 --> 00:53:31,450
+<i>Comunicazione
+con il veicolo persa</i>
+
+398
+00:53:39,166 --> 00:53:42,586
+<i>Per fortuna, hanno
+a disposizione un gruppo di tecnici</i>
+
+399
+00:53:42,711 --> 00:53:44,671
+<i>e 24 ore dopo,</i>
+
+400
+00:53:44,838 --> 00:53:46,965
+<i>sono pronti a ripartire.</i>
+
+401
+00:53:51,386 --> 00:53:53,722
+<i>Adrian lo fa andare dove spera</i>
+
+402
+00:53:53,847 --> 00:53:56,808
+<i>di trovare un grande
+branco di pesci lanterna.</i>
+
+403
+00:53:57,851 --> 00:54:00,896
+La buona notizia e' che abbiamo
+appena calato il VCD,
+
+404
+00:54:00,979 --> 00:54:02,940
+siamo a una profondita'
+di 250 metri,
+
+405
+00:54:03,023 --> 00:54:06,985
+ovvero quasi alla fine del cavo
+e non e' saltato fuori ancora niente,
+
+406
+00:54:07,069 --> 00:54:09,112
+siamo quindi in pista.
+
+407
+00:54:10,906 --> 00:54:12,908
+<i>Ma non c'e' quasi niente,</i>
+
+408
+00:54:13,033 --> 00:54:15,410
+<i>solo uno spesso
+strato di plancton.</i>
+
+409
+00:54:20,415 --> 00:54:21,875
+<i>Nelle tre settimane successive,</i>
+
+410
+00:54:21,959 --> 00:54:24,795
+<i>non trovano un solo
+pesce lanterna.</i>
+
+411
+00:54:33,095 --> 00:54:36,848
+Questo viaggio illustra bene
+perche' conosciamo cosi' poco l'oceano.
+
+412
+00:54:36,932 --> 00:54:39,810
+Siamo venuti in cerca di qualcosa,
+abbiamo cercato e cercato,
+
+413
+00:54:39,935 --> 00:54:44,189
+ma non l'abbiamo ancora trovato,
+anche utilizzando tutti gli strumenti.
+
+414
+00:54:45,148 --> 00:54:47,693
+<i>Come poi si e' scoperto,
+il team aveva iniziato a filmare</i>
+
+415
+00:54:47,776 --> 00:54:50,028
+<i>proprio all'inizio di "El Ninho",</i>
+
+416
+00:54:50,279 --> 00:54:52,614
+<i>un evento climatico
+imprevedibile,</i>
+
+417
+00:54:52,823 --> 00:54:55,284
+<i>dove le temperature del mare
+possono salire all'improvviso</i>
+
+418
+00:54:55,367 --> 00:54:58,662
+<i>disturbando il comportamento
+riproduttivo dei pesci.</i>
+
+419
+00:55:01,582 --> 00:55:05,043
+<i>Ci sarebbero voluti 18 mesi prima
+che le condizioni migliorassero</i>
+
+420
+00:55:05,127 --> 00:55:07,838
+<i>e il team potesse
+continuare le ricerche.</i>
+
+421
+00:55:13,427 --> 00:55:15,721
+<i>Dall'altra parte
+dell'oceano Pacifico,</i>
+
+422
+00:55:15,804 --> 00:55:17,681
+<i>al largo della Costa Rica.</i>
+
+423
+00:55:23,145 --> 00:55:26,064
+<i>Questa volta, piu' che
+cercare la loro preda,</i>
+
+424
+00:55:26,398 --> 00:55:28,942
+<i>il team sta cercando
+i suoi predatori.</i>
+
+425
+00:55:42,164 --> 00:55:43,749
+<i>Nel blu infinito, pero',</i>
+
+426
+00:55:43,874 --> 00:55:47,502
+<i>anche trovare un grande branco
+di delfini non e' facile.</i>
+
+427
+00:55:52,007 --> 00:55:55,719
+<i>A 20 miglia al largo, il produttore
+di serie Mark Brownlow</i>
+
+428
+00:55:54,676 --> 00:55:57,387
+{\an8}<i>Mark Brownlow, produttore di serie</i>
+
+429
+00:55:55,928 --> 00:55:58,096
+<i>guida una squadra
+di riprese aeree</i>
+
+430
+00:55:58,180 --> 00:56:01,683
+<i>che perlustra migliaia
+di chilometri quadrati di oceano,</i>
+
+431
+00:56:03,936 --> 00:56:06,313
+<i>ma non si vede
+nemmeno un delfino.</i>
+
+432
+00:56:19,284 --> 00:56:20,494
+Terzo giorno,
+
+433
+00:56:20,869 --> 00:56:22,496
+nemmeno una stenella.
+
+434
+00:56:24,957 --> 00:56:26,833
+Iniziamo a preoccuparci...
+
+435
+00:56:31,630 --> 00:56:35,008
+<i>Finalmente, dopo 10 giorni
+in oceano aperto,</i>
+
+436
+00:56:35,133 --> 00:56:37,094
+<i>ricevono la loro ricompensa.</i>
+
+437
+00:56:39,805 --> 00:56:41,223
+<i>Ok, i delfini!</i>
+
+438
+00:56:43,308 --> 00:56:44,059
+<i>Woo!</i>
+
+439
+00:56:44,268 --> 00:56:44,977
+<i>Si'!</i>
+
+440
+00:56:45,936 --> 00:56:47,229
+<i>Delle stenelle!</i>
+
+441
+00:56:51,692 --> 00:56:55,737
+<i>Vedendo i delfini, i sommozzatori
+corrono per intercettarli.</i>
+
+442
+00:56:58,156 --> 00:56:59,866
+Delle stenelle, guarda!
+
+443
+00:57:01,326 --> 00:57:05,998
+<i>L'idea e' di riprendere sott'acqua
+i delfini in frenesia alimentare.</i>
+
+444
+00:57:09,167 --> 00:57:11,211
+Diverse centinaia di delfini
+saltano dappertutto.
+
+445
+00:57:10,002 --> 00:57:13,297
+{\an8}<i>Rachel Butler, regista</i>
+
+446
+00:57:11,295 --> 00:57:13,297
+Sembra che dovremmo esserci.
+
+447
+00:57:17,843 --> 00:57:19,803
+<i>Raggiungono i delfini,</i>
+
+448
+00:57:24,182 --> 00:57:25,726
+<i>ma e' troppo tardi.</i>
+
+449
+00:57:30,689 --> 00:57:31,857
+Ah, diamine.
+
+450
+00:57:31,189 --> 00:57:35,986
+{\an8}<i>Roger Munns,
+cameraman subacqueo</i>
+
+451
+00:57:32,149 --> 00:57:33,233
+Nulla, Rog?
+
+452
+00:57:33,442 --> 00:57:35,944
+Niente. Solo scaglie
+di pesce e ossa,
+
+453
+00:57:36,320 --> 00:57:38,363
+e' come presentarsi
+a una battaglia
+
+454
+00:57:38,488 --> 00:57:40,866
+solo per vedere
+i cadaveri rimasti.
+
+455
+00:57:42,326 --> 00:57:45,329
+<i>Per riuscire a filmare
+i delfini che mangiano,</i>
+
+456
+00:57:45,454 --> 00:57:48,332
+<i>i sommozzatori
+devono essere piu' proattivi.</i>
+
+457
+00:57:56,798 --> 00:57:59,885
+<i>Rachel chiede un passaggio,
+seguendoli in acqua,</i>
+
+458
+00:58:00,052 --> 00:58:03,430
+<i>cercando qualche indizio
+per dove andranno in seguito.</i>
+
+459
+00:58:15,192 --> 00:58:16,318
+<i>Finalmente,</i>
+
+460
+00:58:17,110 --> 00:58:19,196
+<i>dopo tre settimane di ricerche,</i>
+
+461
+00:58:19,279 --> 00:58:22,908
+<i>i sommozzatori trovano
+un gigantesco banchetto,</i>
+
+462
+00:58:23,742 --> 00:58:26,119
+<i>un branco immenso
+di pesci lanterna</i>
+
+463
+00:58:26,745 --> 00:58:30,290
+<i>circondato
+da migliaia di stenelle.</i>
+
+464
+00:58:35,587 --> 00:58:39,091
+E' stato incredibilmente intenso.
+Un grandissimo gruppo di pesci,
+
+465
+00:58:39,216 --> 00:58:42,594
+largo quanto
+di un campo da calcio.
+
+466
+00:58:44,680 --> 00:58:47,641
+Cose che vanno avanti e indietro
+le tue spalle, sulla tua testa,
+
+467
+00:58:47,724 --> 00:58:49,351
+e' stato incredibile.
+
+468
+00:58:53,021 --> 00:58:54,231
+<i>Per la prima volta,</i>
+
+469
+00:58:54,314 --> 00:58:56,024
+<i>la squadra aerea puo' riprendere</i>
+
+470
+00:58:56,149 --> 00:58:58,860
+<i>la dimensione epica
+di questo spettacolo.</i>
+
+471
+00:58:59,486 --> 00:59:03,448
+<i>Ne abbiamo sentite di storie
+sui mari in ebollizione, ma e' vero!</i>
+
+472
+00:59:03,949 --> 00:59:05,325
+<i>Sono giganteschi!</i>
+
+473
+00:59:07,411 --> 00:59:09,580
+<i>L'immensita'
+dell'oceano selvaggio</i>
+
+474
+00:59:09,705 --> 00:59:13,834
+<i>ha reso il catturare questo evento
+straordinario una grande impresa.</i>
+
+475
+00:59:17,588 --> 00:59:19,506
+<i>Ma questa e' la ricompensa,</i>
+
+476
+00:59:19,756 --> 00:59:22,259
+<i>un momento di dramma
+impareggiabile</i>
+
+477
+00:59:22,467 --> 00:59:26,054
+<i>nell'immensa distesa
+del grande blu.</i>
+
+478
+00:59:31,643 --> 00:59:36,440
+<i>La prossima volta, viaggeremo
+nel generoso mare verde.</i>
+
+479
+00:59:39,860 --> 00:59:44,489
+<i>Un mondo incantato
+in cui abitano strane creature,</i>
+
+480
+00:59:48,911 --> 00:59:52,915
+<i>dove solo il piu'
+astuto puo' trionfare.</i>
+
+481
+00:59:54,416 --> 00:59:58,587
+<i>Un'altra traduzione
+di SRT project</i>
+
+482
+00:59:57,544 --> 01:00:00,923
+{\an8}<i>Per scoprire di piu' sui nostri oceani
+con questo poster gratis,</i>
+
+483
+00:59:59,630 --> 01:00:05,886
+<i>SRT project e' un gruppo amatoriale
+indipendente dai siti di video streaming.</i>
+
+484
+01:00:01,173 --> 01:00:05,385
+{\an8}<i>chiama 0300 3033520</i>
+
+485
+01:00:05,510 --> 01:00:08,180
+{\an8}<i>o vai su bbc.co.uk</i>
+
+486
+01:00:06,929 --> 01:00:13,185
+<i>Traduzione: Krypton,
+Evgenij [SRT project]</i>
+
+487
+01:00:08,430 --> 01:00:10,724
+{\an8}<i>bbc.co.uk/blueplanet2</i>
+
+488
+01:00:10,933 --> 01:00:13,977
+{\an8}<i>e segui le indicazioni
+verso l'Open University.</i>
+
+489
+01:00:14,228 --> 01:00:17,356
+<i>Revisione: Atirmil [SRT project]</i>
+
+490
+01:00:18,398 --> 01:00:24,655
+<i>Se tradurre vi appassiona
+e diverte, venite a tradurre con noi.</i>
+
+491
+01:00:20,525 --> 01:00:23,862
+{\an8}<i>E il DVD di Blue Planet 2 della BBC</i>
+
+492
+01:00:23,946 --> 01:00:27,032
+{\an8}<i>e' ora disponibile
+per il pre-ordine online.</i>
+
+493
+01:00:25,697 --> 01:00:31,954
+<i>[SRT project]
+www.phoenix.forumgalaxy.com</i>
+
+494
+01:00:32,996 --> 01:00:37,167
+<i>Ora anche su telegram:
+https://telegram.me/projectsrt</i>
+
+495
+01:00:38,210 --> 01:00:43,423
+<i>Cercateci anche su Facebook:
+www.facebook.com/SRTproject</i>
+
